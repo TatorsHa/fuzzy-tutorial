@@ -1,5 +1,5 @@
 # Bookwyrm
-Bookwyrm is a project developed in the context of the Fuzzy Sets class. The goal is to make a small app or plugin to help people find new fantasy book suggestions. We will design the Fuzzy 
+Bookwyrm is a project developed in the context of the Fuzzy Sets class. The goal is to make a small app or plugin to help people find new fantasy book suggestions.
 
 ## Problem Identification and Motivation
 
