@@ -56,6 +56,10 @@ The data is stored in a CSV file with currently the following categories:
 - Fast
 
 ### Algorithm basic setup
+
+We are going to create an interactive jupyter notebook to test our artefact with. Fuzzy logic will be used in the questionnaire as well as in the algorithm behind the book suggestions.
+
+Scematic of teh algorithm:
 ![algorithm image](images/algorithm.png)
 
 ## 4. Demonstration
