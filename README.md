@@ -29,12 +29,12 @@ These features make StoryGraph the perfect resource for building recommendation 
 
 The data is stored in a CSV file with currently the following categories:
 
-Main:
+**Main:**
 - Title
 - Author
 - Length
 
-Moods:
+**Moods:**
 - Adventurous
 - Challenging
 - Dark
@@ -50,7 +50,7 @@ Moods:
 - Sad
 - Tense
 
-Pace: 
+**Pace:**
 - Slow
 - Medium
 - Fast
