@@ -16,7 +16,7 @@ For the questionnaire we have two ideas at this moment, which will have to be ev
 -The users will be asked for each mood/pace how they feel about it and with that result we are going to calculate a vector to compare with our library.
 -The users will get a more fuzzy questionnaire where each question can give rating to more then one mood. The results of the questionnaire will then be aggregated to calculate a vector to compare with our library
 
-## 3. Design and development.
+## 3. Design and development
 
 ### Data
 
@@ -55,10 +55,10 @@ The data is stored in a CSV file with currently the following categories:
 - Medium
 - Fast
 
-### 4. Algorithm basic setup
+### Algorithm basic setup
 ![algorithm image](images/algorithm.png)
 
-## Demonstration
+## 4. Demonstration
 
 Will be done after the artefact is created. We are going to hand the the artefact to some people who read a lot of fantasy books, to give us feedback on how good our suggestions are and how they felt about using it.
 
