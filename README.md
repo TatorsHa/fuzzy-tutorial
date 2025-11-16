@@ -18,8 +18,6 @@ For the questionnaire we have two ideas at this moment, which will have to be ev
 
 ## Design and development.
 
-
-
 ### Data
 
 The dataset used in this project comes from the [StoryGraph](https://app.thestorygraph.com/). This website provides detailed information and analytics about books. It aggregates user-generated impressions and reading experiences. In particular, it provides statistics on how readers felt about each book, including:
@@ -35,7 +33,6 @@ Main:
 - Title
 - Author
 - Length
-
 Moods:
 - Adventurous
 - Challenging
@@ -51,12 +48,10 @@ Moods:
 - Relaxing
 - Sad
 - Tense
-
 Pace: 
 - Slow
 - Medium
 - Fast
-
 
 ### Algorithm basic setup
 ![algorithm image](images/algorithm.png)
