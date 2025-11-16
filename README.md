@@ -6,6 +6,7 @@ The dataset used in this project comes from the [StoryGraph](https://app.thestor
 - **Moods** (reflective, emotional, adventurous,...)
 - **Pace** (slow, medium, fast)
 - **Additional** attributes such as genre tags, content warnings, length and community ratings.
+  
 These features make StoryGraph the perfect ressource for building recommendation or classification systems.
 
 ## Use of fuzzy methods/model
