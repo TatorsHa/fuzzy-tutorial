@@ -63,7 +63,7 @@ Pace:
 
 ## Demonstration
 
-Will be done after the artefact is created.
+Will be done after the artefact is created. We are going to hand the the artefact to some people who read a lot of fantasy books, to give us feedback on how good our suggestions are and how they felt about using it.
 
 # Litterature
 Brocke, Jan vom & Hevner, Alan & Maedche, Alexander. (2020). Introduction to Design Science Research. 10.1007/978-3-030-46781-4_1. 
